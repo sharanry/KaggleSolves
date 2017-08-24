@@ -1,0 +1,2 @@
+model_checkpoint_path: "CNN-vanilla20.ckpt"
+all_model_checkpoint_paths: "CNN-vanilla20.ckpt"
